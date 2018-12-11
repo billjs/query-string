@@ -1,6 +1,6 @@
 {
   "name": "@billjs/query-string",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A simple and lightweight QueryString by TypeScript for Node.js or Browsers.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
