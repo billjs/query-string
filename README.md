@@ -1,6 +1,6 @@
-# query-string [![Travis-ci Status](https://api.travis-ci.org/billjs/query-string.svg?branch=master)](https://travis-ci.org/billjs/query-string) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/billjs/query-string/blob/master/LICENSE) ![typescript | javascript | node.js](https://img.shields.io/badge/language-typescript%20%7C%20javascript%20%7C%20node.js-yellow.svg) [![Npm Version](https://img.shields.io/npm/v/@billjs/query-string.svg)](https://www.npmjs.com/package/@billjs/query-string)
+# query-string [![Travis-ci Status](https://api.travis-ci.org/billjs/query-string.svg?branch=master)](https://travis-ci.org/billjs/query-string) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/billjs/query-string/blob/master/LICENSE) ![typescript | javascript | node.js](https://img.shields.io/badge/language-typescript%20%7C%20javascript%20%7C%20node.js-yellow.svg) [![Npm Version](https://img.shields.io/npm/v/@billjs/query-string.svg)](https://www.npmjs.com/package/@billjs/query-string) [![NPM Download](https://img.shields.io/npm/dm/@billjs/query-string.svg)](https://npmcharts.com/compare/@billjs/query-string?minimal=true)
 
-A simple and lightweight QueryString by TypeScript for Node.js or Browsers.
+A simple and lightweight QueryString library by TypeScript for node.js or browsers.
 
 ## Installation
 
